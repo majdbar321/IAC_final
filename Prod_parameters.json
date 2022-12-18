@@ -14,7 +14,7 @@
         "appServiceBEPlanName": { 
             "value": "Majd-assignment-asp-prod-BE"},
         "storageAccountName": {
-            "value": "Majdstorageprod"}
+            "value": "majdstorageprod"}
 
     }
 }
